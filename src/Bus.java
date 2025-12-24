@@ -8,7 +8,7 @@ class Bus {
     }
 
     public int getNumber() {
-        return number;
+        return number;21000
     }
 
     public int getCapacity() {
